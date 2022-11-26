@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Party">
+    <output-path>$PROJECT_DIR$/../../../../Server/Proxy/proxy/plugins</output-path>
+    <root id="archive" name="Party.jar">
+      <element id="module-output" name="Party" />
+      <element id="file-copy" path="$PROJECT_DIR$/bungee.yml" />
+    </root>
+  </artifact>
+</component>
